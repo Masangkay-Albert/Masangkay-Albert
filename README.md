@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Your Name
+# Hello, John Albert Masangkay
 
-4th Year IT Student · Web Developer · DLSU-D
+4th Year IT Student  · DLSU-D
 
 ---
 
